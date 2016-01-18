@@ -1,0 +1,1 @@
+C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\Pandora.Windows.csproj;neutral

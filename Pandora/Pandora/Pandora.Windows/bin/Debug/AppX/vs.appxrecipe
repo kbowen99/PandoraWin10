@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KURT-PC2</Machine>
+    <WindowsUser>Kurtis</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3403fb25-8732-4eba-8b30-a736d3edd666</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6DD47C894DBAD26334D63FF76CAA922AE05904263C698405415B59349DA1C03A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3403fb25-8732-4eba-8b30-a736d3edd666_1.0.0.0_neutral__axmatxpqyc4c4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3403fb25-8732-4eba-8b30-a736d3edd666_axmatxpqyc4c4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3403fb25-8732-4eba-8b30-a736d3edd666</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kurtis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-10T01:56:58.645</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\Pandora.Windows.exe">
+      <PackagePath>Pandora.Windows.exe</PackagePath>
+      <Modified>2015-12-10T02:15:52.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-07-07T03:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-12-10T01:55:50.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\Pandora.Windows.xr.xml">
+      <PackagePath>Pandora.Windows.xr.xml</PackagePath>
+      <Modified>2015-12-10T02:15:52.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-12-10T01:56:57.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-12-10T02:15:52.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-12-10T01:56:57.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-12-10T01:56:57.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kurtis\git\PandoraWin10\Pandora\Pandora\Pandora.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-10T01:56:58.143</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
